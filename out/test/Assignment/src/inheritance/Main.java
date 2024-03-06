@@ -6,7 +6,7 @@ public class Main {
        fa.age = 90;
        fa.name = "maryan dahir mahmuud";
        fa.display();
-       
+
 
 
     }

@@ -5,9 +5,9 @@ public class Faculty extends Employee {
     //constructor
     Faculty(){
         System.out.println("Faculty Constructor!");
-     //   super.display();
-     //  super.age = 60;
-     //  System.out.println(super.age);
+       super.display();
+      super.age = 60;
+       System.out.println(super.age);
     }
 
     //method -- override display
